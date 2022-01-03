@@ -1,0 +1,12 @@
+{
+  "name": "quantarts.authenticity.hash",
+  "version": "1.0.0",
+  "main": "verifyAuthHash.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node verifyAuthHash.js"
+  },
+  "dependencies": {
+    "web3": "1.6.1"
+  }
+}
